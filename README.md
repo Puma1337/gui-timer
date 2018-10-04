@@ -12,3 +12,6 @@ Displays a GTK percentage timer for tracking that cup of coffee you are brewing!
 
 ## How amazing is this!?
 Pretty amazing.
+
+## What if I have issues?
+Please submit an issue using "Issues" tab on the repo in github
